@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test_Bluetooth_1</string>
+    <string name="enable">Enable</string>
+    <string name="visible">Visible</string>
+    <string name="my_bt_name">my bt name</string>
+</resources>
