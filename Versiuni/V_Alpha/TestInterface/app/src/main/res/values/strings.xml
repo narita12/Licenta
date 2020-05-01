@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cocktail Bot</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+
+    <string name="pump_hint">0 - 250 g</string>
+
+    <string name="pump1_label">Pump 1:</string>
+    <string name="pump2_label">Pump 2:</string>
+    <string name="pump3_label">Pump 3:</string>
+    <string name="pump4_label">Pump 4:</string>
+    <string name="pump5_label">Pump 5:</string>
+    <string name="pump6_label">Pump 6:</string>
+
+    <string name="check_container">Glass</string>
+
+    //Error codes
+    <string name="error_code_0">Connected\n</string>
+    <string name="error_code_0_status">Connected</string>
+
+    <string name="error_code_1">Can\'t establish connection\n</string>
+    <string name="error_code_1_status">Error code: -1</string>
+
+    <string name="error_code_2">Can\'t close mmSocket\n</string>
+    <string name="error_code_2_status">Error code: -2</string>
+
+    <string name="error_code_unknown">Unknown status\n</string>
+    <string name="error_code_unknown_status">Unknown status</string>
+    //Error codes - END
+</resources>
